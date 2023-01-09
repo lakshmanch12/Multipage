@@ -1,0 +1,130 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "imagelink": "https://tse1.mm.bing.net/th?id=OIP.yQV9YN97q7-pD-MDLHFaJAHaEK&pid=Api&P=0",
+      "cities": [
+        {
+          "id": 1,
+          "imagelink": "https://tse3.mm.bing.net/th?id=OIP.Q2mDbXc6b1t1A-dD-Ym3ggHaE7&pid=Api&P=0",
+          "cityName": "Hyderabad",
+          "description": " Hyderabad is a melting pot of North and South Indian culturesThe culture of Hyderabad is quite distinct from the rest of Telangana and showcases strong Islamic influences inherited from the period of the Nizam rule. The impact of the Islamic culture is starkly visible onHyderabad's architecture, food, lifestyle and language. This is more evident in the old city, while the new city represents a more cosmopolitan culture. Hyderabad has a rich tradition of literature and fine arts, with many museums, art galleries and exhibitions dedicated to the display of Hyderabadi heritage. Being multicultural festivals of all ethnicities, be it Diwali, Eid or Christmas, are given equal importance and celebrated with a lot of pomp and brilliance."
+        },
+        {
+          "id": 2,
+          "imagelink": "https://tse4.mm.bing.net/th?id=OIP.rDKAZOiDpe7CWSZx5VQvxgHaE7&pid=Api&P=0",
+          "cityName": "delhi",
+          "description": " The topography of the medieval fort Purana Qila on the banks of the river Yamuna matches the literary description of the citadel Indraprastha in the Sanskrit epic Mahabharata; however, excavations in the area have revealed no signs of an ancient built environment. From the early 13th century until the mid-19th century, Delhi was the capital of two major empires, the Delhi sultanate and the Mughal Empire, which covered large parts of South Asia. All three UNESCO World Heritage Sites in the city, the Qutub Minar, Humayun's Tomb, and the Red Fort, belong to this period. Delhi was the early centre of Sufism and Qawwali music. The names of Nizamuddin Auliya and Amir Khusrau are prominently associated with it. The Khariboli dialect of Delhi was part of a linguistic development that gave rise to the literature of the Urdu language and then of Modern Standard Hindi. Major Urdu poets from Delhi include Mir Taqi Mir and Mirza Ghalib. Delhi was a major centre of the Indian Rebellion of 1857. In 1911, New Delhi, a southern region within Delhi, became the capital of the British Indian Empire. During the Partition of India in 1947, Delhi was transformed from a Mughal city to a Punjabi one, losing two-thirds of its Muslim residents, in part due to the pressure brought to bear by arriving Hindu refugees from western Punjab.[16] After independence in 1947, New Delhi continued as the capital of the Dominion of India, and after 1950 of the Republic of India.."
+        },
+        {
+          "id": 3,
+          "imagelink": "https://tse1.explicit.bing.net/th?id=OIP.QcqdDXNhRVRmG6oM-V0mwQHaEc&pid=Api&P=0",
+          "cityName": "westbengal",
+          "description": "The land of West Bengal has in it intricately woven stories of many bright mornings and dark nights; stories of many civilisations have left their footprints here. Awash in the memory of that rich history and heritage West Bengal boasts of different ethnicities"
+        }
+      ],
+      "countryName": "India"
+    },
+    {
+      "id": 2,
+      "imagelink": "https://tse1.mm.bing.net/th?id=OIP.cMVjgDBj40fuTXiKWCK6kwHaEK&pid=Api&rs=1&c=1&qlt=95&w=169&h=94",
+      "cities": [
+        {
+          "id": 1,
+          "imagelink": "https://tse4.mm.bing.net/th?id=OIP.3KWd2zPnGZZ1Q_41alzXIQHaE6&pid=Api&P=0",
+          "cityName": "tokya",
+          "description": "Tokyo serves as Japan's economic center and is the seat of both the Japanese government and the Emperor of Japan. Originally a fishing village named Edo, the city became politically prominent in 1603, when it became the seat of the Tokugawa shogunate."
+        },
+        {
+          "id": 2,
+          "imagelink": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2018/07/Nikka-Whiskey-sign-Susukino-1024x684.jpg",
+          "cityName": "susukina",
+          "description": "Susukino's origins go back to the 1870s when the area was a designated red-light district serving laborers working in the city. Prostitution in Susukino continued until the 1960s when government regulation, the opening of the Namboku subway line and then the 1972 Winter Olympics in Sapporo led to a gradual gentrification of Susukino.."
+        },
+        {
+          "id": 3,
+          "imagelink": "https://tse1.mm.bing.net/th?id=OIP.5j7_AEsAHmdIzO9z-vxRXwHaE7&pid=Api&P=0",
+          "cityName": "Mount moiwa",
+          "description": "While of a modest altitude, Mount Moiwa offers an astounding panorama on Sapporo, Ishikari Bay and the surrounding mountains and is without a doubt one of the most beautiful views of Japan. It was recently ranked the second most beautiful night scenery of Japan, behind Mount Inasa in Nagasaki. Spectators truly have a broadened view over the area and can experience Hokkaido Island’s characteristic feeling of vastness.."
+        }
+      ],
+      "countryName": "japon"
+    },
+    {
+      "id": 3,
+      "imagelink": "https://media.vogue.in/wp-content/uploads/2018/04/Your-ultimate-guide-to-Tokyo-Japan1.jpg",
+      "cities": [
+        {
+          "id": 1,
+          "imagelink": "https://tse3.mm.bing.net/th?id=OIP.yGb-uw--6l3zq31Jy-kFLgHaFj&pid=Api&P=0",
+          "imagelink1": "https://tse3.mm.bing.net/th?id=OIP.yGb-uw--6l3zq31Jy-kFLgHaFj&pid=Api&P=0",
+          "cityName": "maldevies1",
+          "description": "Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location"
+        },
+        {
+          "id": 2,
+          "imagelink": "https://tse3.mm.bing.net/th?id=OIP.LpCsCt2FdWVCZmb0LXZ7EQHaFj&pid=Api&P=0",
+          "cityName": "maldevies2",
+          "description": "Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location"
+        },
+        {
+          "id": 3,
+          "imagelink": "https://tse3.mm.bing.net/th?id=OIP.SIqJDQlAUGVXwRXnC1gtMgHaEK&pid=Api&P=0",
+          "cityName": "maldevies3",
+          "description": "Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location"
+        }
+      ],
+      "countryName": "maldives"
+    },
+    {
+      "id": 4,
+      "imagelink": "https://media.vogue.in/wp-content/uploads/2018/04/Your-ultimate-guide-to-Tokyo-Japan1.jpg",
+      "cities": [
+        {
+          "id": 1,
+          "imagelink": "https://tse4.mm.bing.net/th?id=OIP.3KWd2zPnGZZ1Q_41alzXIQHaE6&pid=Api&P=0",
+          "cityName": "toyk",
+          "description": "Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location"
+        },
+        {
+          "id": 2,
+          "imagelink": "https://i0.wp.com/nextbiteoflife.com/wp-content/uploads/2016/04/street.jpg?fit=1923%2C1280&ssl=1",
+          "cityName": "tokyav2222",
+          "description": "Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location"
+        },
+        {
+          "id": 2,
+          "imagelink": "https://i0.wp.com/nextbiteoflife.com/wp-content/uploads/2016/04/street.jpg?fit=1923%2C1280&ssl=1",
+          "cityName": "tokyav2222",
+          "description": "Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location"
+        }
+      ],
+      "countryName": "Bangkok"
+    }
+  ],
+  "users": [
+    {
+      "name": "",
+      "Comments": "",
+      "id": 1
+    },
+    {
+      "name": "lakshman",
+      "star": 4,
+      "Comments": "hasdgsacvhdsvhv",
+      "id": 2
+    },
+    {
+      "name": "",
+      "star": 0,
+      "Comments": "",
+      "id": 3
+    },
+    {
+      "name": "iuhdij",
+      "star": 3,
+      "Comments": "kdjbdkj",
+      "id": 4
+    }
+  ]
+}

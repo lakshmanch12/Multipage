@@ -142,14 +142,14 @@ const Users = () => {
       <div className="container">
     <div className="row text-center">
       <div className="col-md-11">
-          <div className="testimonial mb-1">
+          <div className="testimonial mt-2 ">
          
          <h1>cities</h1>
          </div>
         
          </div>
     <div className="col-md-1">
-          <div className="testimonial mt-2 mb-1">
+          <div className="testimonial mt-3  ">
          
           <Button
            onClick={()=>goToHome()}  
@@ -160,28 +160,44 @@ const Users = () => {
         </div>
         </div>
          </div>
-    <div className='grid-container'>
+         {/* <div class="row">
+                 <div class="col-sm-4 mb-5">
+                    <div class="card mt-4">
+                       <img class="card-img-top" src="Images/ig-3.jpg" alt=""/>
+                       <div class="card-body">
+                          <h4 class="card-title text-secondary">Japan</h4>
+                          <p class="card-text text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus.</p>
+                       </div>
+                       <div class="card-footer">
+                          <a href="#" class="btn btn-primary">Find Out More!</a>
+                       </div>
+                    </div>
+                 </div>
+                 </div> */}
+        
+    <div className='row'>
    {selectedCountry[0].cities.map((eachUser )=>{
     const {id ,name,email,imagelink,about} =eachUser; 
+    const selectedCity = selectedCountry[0].cities.find((eachUser) => eachUser.id===id);
     return (
-   
-    <article >
-   
+      <div class="col-sm-4 mb-2">
+   <div class="card mt-2">
       <h3>{about}</h3>
-      <Card.Img variant="top" src={eachUser.imagelink} />
-      <Card.Text style={{color:"black"}}>{eachUser.cityName}</Card.Text>
+      <Card.Img class="card-img-top" src={eachUser.imagelink} />
+      <Card.Title  class="card-title text-dark-emphasis" >{eachUser.cityName}</Card.Title>
+      <p class="card-text text-secondary" >{selectedCity.About}</p>
+                       
+      {/* <p>{selectedCity.About}</p> */}
+      <div class="card-footer">
       <Link to={`/users/${country}/${id}`} key={id}>
       <Button type="button" 
       //  onClick={()=>goToHome()}
-       class="btn btn-primary">about</Button>
+       className='mb-2 btn btn-primary'>about</Button>
   </Link>
-    </article>
-
-  
-    )
-    
-   }
-   )}
+  </div>
+  </div>
+    </div>
+    )})}
 
 </div>
 

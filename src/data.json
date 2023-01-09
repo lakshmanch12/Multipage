@@ -7,19 +7,25 @@
         {
           "id": 1,
           "imagelink": "https://tse3.mm.bing.net/th?id=OIP.Q2mDbXc6b1t1A-dD-Ym3ggHaE7&pid=Api&P=0",
+          "imagelink1": "https://thumbs.dreamstime.com/b/round-icon-vector-art-flat-shadow-design-skyline-city-silhouette-template-logo-hyderabad-india-asia-round-icon-vector-art-flat-111680436.jpg",
           "cityName": "Hyderabad",
+          "About":"Tourism The Pearl City, Hyderabad with its unmatched blend of history and modernity, hypnotizes everyone, whoever sets his/her foot in this beautiful city of Nizams",
           "description": " Hyderabad is a melting pot of North and South Indian culturesThe culture of Hyderabad is quite distinct from the rest of Telangana and showcases strong Islamic influences inherited from the period of the Nizam rule. The impact of the Islamic culture is starkly visible onHyderabad's architecture, food, lifestyle and language. This is more evident in the old city, while the new city represents a more cosmopolitan culture. Hyderabad has a rich tradition of literature and fine arts, with many museums, art galleries and exhibitions dedicated to the display of Hyderabadi heritage. Being multicultural festivals of all ethnicities, be it Diwali, Eid or Christmas, are given equal importance and celebrated with a lot of pomp and brilliance."
         },
         {
           "id": 2,
           "imagelink": "https://tse4.mm.bing.net/th?id=OIP.rDKAZOiDpe7CWSZx5VQvxgHaE7&pid=Api&P=0",
-          "cityName": "delhi",
+          "imagelink1": "https://tse4.mm.bing.net/th?id=OIP.svQq4Pk7kxyYcmEy6FFe-QHaHa&pid=Api&P=0",
+          "cityName": "Delhi",
+          "About":"Delhi has a modern, well-planned and extensive Metro network that connects all corners of Delhi; this network is still growing. New roadways and flyovershave improved connectivity,",
           "description": " The topography of the medieval fort Purana Qila on the banks of the river Yamuna matches the literary description of the citadel Indraprastha in the Sanskrit epic Mahabharata; however, excavations in the area have revealed no signs of an ancient built environment. From the early 13th century until the mid-19th century, Delhi was the capital of two major empires, the Delhi sultanate and the Mughal Empire, which covered large parts of South Asia. All three UNESCO World Heritage Sites in the city, the Qutub Minar, Humayun's Tomb, and the Red Fort, belong to this period. Delhi was the early centre of Sufism and Qawwali music. The names of Nizamuddin Auliya and Amir Khusrau are prominently associated with it. The Khariboli dialect of Delhi was part of a linguistic development that gave rise to the literature of the Urdu language and then of Modern Standard Hindi. Major Urdu poets from Delhi include Mir Taqi Mir and Mirza Ghalib. Delhi was a major centre of the Indian Rebellion of 1857. In 1911, New Delhi, a southern region within Delhi, became the capital of the British Indian Empire. During the Partition of India in 1947, Delhi was transformed from a Mughal city to a Punjabi one, losing two-thirds of its Muslim residents, in part due to the pressure brought to bear by arriving Hindu refugees from western Punjab.[16] After independence in 1947, New Delhi continued as the capital of the Dominion of India, and after 1950 of the Republic of India.."
         },
         {
           "id": 3,
-          "imagelink": "https://tse1.explicit.bing.net/th?id=OIP.QcqdDXNhRVRmG6oM-V0mwQHaEc&pid=Api&P=0",
+          "imagelink": "https://media.istockphoto.com/id/466240080/photo/victoria-memorial-landmark-in-calcutta-india.jpg?s=612x612&w=0&k=20&c=908J0rxwTyUBivotass3lCizKrsE5gGYQ5UpHP3V6zY=",
           "cityName": "westbengal",
+          "imagelink1": "https://www.bengaltourism.in/uploads/partners/Final%20Logo_2018-02-26-18-12-39.jpg",
+          "About":"West Bengal is a state in the eastern region of India and is the nation's fourth-most populous. [1] The state capital is Kolkata. The state encompasses two broad natural regions: the Gangetic Plain",
           "description": "The land of West Bengal has in it intricately woven stories of many bright mornings and dark nights; stories of many civilisations have left their footprints here. Awash in the memory of that rich history and heritage West Bengal boasts of different ethnicities"
         }
       ],
@@ -32,20 +38,27 @@
         {
           "id": 1,
           "imagelink": "https://tse4.mm.bing.net/th?id=OIP.3KWd2zPnGZZ1Q_41alzXIQHaE6&pid=Api&P=0",
+          "imagelink1": "https://tse1.explicit.bing.net/th?id=OIP.RSwPNQCI2pa6nH_mW8VxygHaEo&pid=Api&P=0",
+          "About":"Tokyo breathes with the tradition of four hundred years since the Edo period. It’s a city that never stops and embraces the future.",
+
           "cityName": "tokya",
-          "description": "Tokyo serves as Japan's economic center and is the seat of both the Japanese government and the Emperor of Japan. Originally a fishing village named Edo, the city became politically prominent in 1603, when it became the seat of the Tokugawa shogunate."
+          "description": "A design that presents “Tokyo” in two different fonts in order to intuitively impart an image of the city. The brushstrokes and Gothic block typeface represent the originality of Tokyo, where traditions dating back to the Edo period (1603-1868), coexist alongside the cutting-edge culture of today. The tradition is expressed in black ink, while the new Tokyo is expressed in blue, like the sky spreading forward to express the innovative future. To give some playfulness, the logo also includes a traditional stamp that shows the one of Tokyo’s newest sightseeing landmarks, Shibuya scramble crossing."
         },
         {
           "id": 2,
           "imagelink": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2018/07/Nikka-Whiskey-sign-Susukino-1024x684.jpg",
           "cityName": "susukina",
-          "description": "Susukino's origins go back to the 1870s when the area was a designated red-light district serving laborers working in the city. Prostitution in Susukino continued until the 1960s when government regulation, the opening of the Namboku subway line and then the 1972 Winter Olympics in Sapporo led to a gradual gentrification of Susukino.."
+          "imagelink1": "https://tse3.mm.bing.net/th?id=OIP.QogK_u-pl_VDJ_BOyBEtAQHaE8&pid=Api&P=0",
+          "description":"Susukino Crossing is located between Nishi 3 chome, Minami 4 and Nishi 4 chome, Minami 4, and many neon signs were installed on the buildings along the street. One of those signs is the Nikka sign at the front of the Susukino Building, which has a painting of the Nikka symbol, the King of Blenders,[2] and the background whose colors are changed one after the other. Every September, the Hokkaidō Marathon is held in Sapporo, and runners pass Ekimae Dōri through the Susukino Crossing and Susukino district, which leads to the finish line in Nakajima Park.[3] Every August, the Susukino Festival is also held, and the line of people bearing Mikoshi parades down the street.[4] The Ganso Rāmen Yokochō and Shin Rāmen Yokochō, where ramen restaurants are lined up along the pathway and visitors can have many types of the Sapporo ramen, are also located in the Susukino and are an attraction to sightseers.",
+          "About":"Tokyo breathes with the tradition of four hundred years since the Edo period. It’s a city that never stops and embraces the future."
         },
         {
           "id": 3,
           "imagelink": "https://tse1.mm.bing.net/th?id=OIP.5j7_AEsAHmdIzO9z-vxRXwHaE7&pid=Api&P=0",
+          "imagelink1": "https://tse3.mm.bing.net/th?id=OIP.49vAtBIJ5KfriePE9NIM_wHaFj&pid=Api&P=0",
           "cityName": "Mount moiwa",
-          "description": "While of a modest altitude, Mount Moiwa offers an astounding panorama on Sapporo, Ishikari Bay and the surrounding mountains and is without a doubt one of the most beautiful views of Japan. It was recently ranked the second most beautiful night scenery of Japan, behind Mount Inasa in Nagasaki. Spectators truly have a broadened view over the area and can experience Hokkaido Island’s characteristic feeling of vastness.."
+          "About":"Mount Moiwa is a forested rock formation whose summit rises 1,742 feet (531 meters) above Sapporo. Not only does the peak  ",
+          "description": "Mount Moiwa (藻岩山, Moiwayama) is a mountain located about 5 km (3 mi) southwest of the center of Sapporo, Hokkaido and 6 km (4 mi) southwest of Sapporo Station.[1] A ropeway and a motorway pass through Mt. Moiwa,[2] and an observatory and a ski resort in winter make it a resort for Sapporo citizens and tourists.[1] One of those signs is the Nikka sign at the front of the Susukino Building, which has a painting of the Nikka symbol, the King of Blenders,[2] and the background whose colors are changed one after the other. Every September, the Hokkaidō Marathon is held in Sapporo, and runners pass Ekimae Dōri through the Susukino Crossing and Susukino district, which leads to the finish line in Nakajima Park.[3] Every August, the Susukino Festival is also held, and the line of people bearing Mikoshi parades down the street.[4] The Ganso Rāmen Yokochō and Shin Rāmen Yokochō, where ramen restaurants are lined up along the pathway and visitors can have many types of the Sapporo ramen, are also located in the Susukino and are an attraction."
         }
       ],
       "countryName": "japon"
@@ -57,21 +70,25 @@
         {
           "id": 1,
           "imagelink": "https://tse3.mm.bing.net/th?id=OIP.yGb-uw--6l3zq31Jy-kFLgHaFj&pid=Api&P=0",
-          "imagelink1": "https://tse3.mm.bing.net/th?id=OIP.yGb-uw--6l3zq31Jy-kFLgHaFj&pid=Api&P=0",
+          "imagelink1": "https://tse3.mm.bing.net/th?id=OIP.9Rg-l_zfcwgvcRwIJa3D5gHaHu&pid=Api&P=0",
           "cityName": "maldevies1",
-          "description": "Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location"
+          "About":"Maldives was a member owithdrawing from the organisation in October 2016 in protest of allegations by other nations",
+          "description": "Maldives (/ˈmɔːldiːvz/, US: /ˈmɔːldaɪvz/; Dhivehi: ދިވެހިރާއްޖެ, romanized: Dhivehi Raajje, Dhivehi pronunciation: [d̪iʋehi ɾaːd͡ʒd͡ʒe]), officially the Republic of Maldives (ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ, Dhivehi Raajjeyge Jumhooriyyaa, Dhivehi pronunciation: [d̪iʋehi ɾaːd͡ʒd͡ʒeːge d͡ʒumhuːɾijjaː]), is an archipelagic state in South Asia, situated in the Indian Ocean. It lies southwest of Sri Lanka and India, about 750 kilometres (470 miles; 400 nautical miles) from the Asian continent's mainland. The chain of 26 atolls stretches across the equator from Ihavandhippolhu Atoll in the north to Addu Atoll in the south.Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location.[13] The Maldivian Archipelago is located on the Chagos–Laccadive Ridge, a vast submarine mountain range in the Indian Ocean; this also forms a terrestrial ecoregion, together with the Chagos Archipelago and Lakshadweep.[14] With an average ground-level elevation of 1.5 metres (4 ft 11 in) above sea level,[15] and a highest natural point of only 2.4 metres (7 ft 10 in), it is the world's lowest-lying country. (Note that some sources state the highest point, Mount Villingili, as 5.1 metres or 17 feet)[15]"
         },
         {
           "id": 2,
           "imagelink": "https://tse3.mm.bing.net/th?id=OIP.LpCsCt2FdWVCZmb0LXZ7EQHaFj&pid=Api&P=0",
+          "imagelink1": "https://tse4.mm.bing.net/th?id=OIP.b7YIQIJpGY5RMtTcfnGk_QHaFj&pid=Api&P=0",
           "cityName": "maldevies2",
-          "description": "Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location"
+          "About":"Maldives was a member owithdrawing from the organisation in October 2016 in protest of allegations by other nations",
+          "description": "Maldives (/ˈmɔːldiːvz/, US: /ˈmɔːldaɪvz/; Dhivehi: ދިވެހިރާއްޖެ, romanized: Dhivehi Raajje, Dhivehi pronunciation: [d̪iʋehi ɾaːd͡ʒd͡ʒe]), officially the Republic of Maldives (ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ, Dhivehi Raajjeyge Jumhooriyyaa, Dhivehi pronunciation: [d̪iʋehi ɾaːd͡ʒd͡ʒeːge d͡ʒumhuːɾijjaː]), is an archipelagic state in South Asia, situated in the Indian Ocean. It lies southwest of Sri Lanka and India, about 750 kilometres (470 miles; 400 nautical miles) from the Asian continent's mainland. The chain of 26 atolls stretches across the equator from Ihavandhippolhu Atoll in the north to Addu Atoll in the south.Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location.[13] The Maldivian Archipelago is located on the Chagos–Laccadive Ridge, a vast submarine mountain range in the Indian Ocean; this also forms a terrestrial ecoregion, together with the Chagos Archipelago and Lakshadweep.[14] With an average ground-level elevation of 1.5 metres (4 ft 11 in) above sea level,[15] and a highest natural point of only 2.4 metres (7 ft 10 in), it is the world's lowest-lying country. (Note that some sources state the highest point, Mount Villingili, as 5.1 metres or 17 feet)[15]"
         },
         {
           "id": 3,
-          "imagelink": "https://tse3.mm.bing.net/th?id=OIP.SIqJDQlAUGVXwRXnC1gtMgHaEK&pid=Api&P=0",
+          "imagelink": "https://tse3.mm.bing.net/th?id=OIP.LpCsCt2FdWVCZmb0LXZ7EQHaFj&pid=Api&P=0",          "imagelink1": "https://tse4.mm.bing.net/th?id=OIP.cayeN6xSRQ8gx3DPxDY5UQHaD4&pid=Api&P=0",
           "cityName": "maldevies3",
-          "description": "Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location"
+          "About":"Maldives was a member owithdrawing from the organisation in October 2016 in protest of allegations by other nations",
+          "description": "Maldives (/ˈmɔːldiːvz/, US: /ˈmɔːldaɪvz/; Dhivehi: ދިވެހިރާއްޖެ, romanized: Dhivehi Raajje, Dhivehi pronunciation: [d̪iʋehi ɾaːd͡ʒd͡ʒe]), officially the Republic of Maldives (ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ, Dhivehi Raajjeyge Jumhooriyyaa, Dhivehi pronunciation: [d̪iʋehi ɾaːd͡ʒd͡ʒeːge d͡ʒumhuːɾijjaː]), is an archipelagic state in South Asia, situated in the Indian Ocean. It lies southwest of Sri Lanka and India, about 750 kilometres (470 miles; 400 nautical miles) from the Asian continent's mainland. The chain of 26 atolls stretches across the equator from Ihavandhippolhu Atoll in the north to Addu Atoll in the south.Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location.[13] The Maldivian Archipelago is located on the Chagos–Laccadive Ridge, a vast submarine mountain range in the Indian Ocean; this also forms a terrestrial ecoregion, together with the Chagos Archipelago and Lakshadweep.[14] With an average ground-level elevation of 1.5 metres (4 ft 11 in) above sea level,[15] and a highest natural point of only 2.4 metres (7 ft 10 in), it is the world's lowest-lying country. (Note that some sources state the highest point, Mount Villingili, as 5.1 metres or 17 feet)[15]"
         }
       ],
       "countryName": "maldives"
@@ -83,19 +100,23 @@
         {
           "id": 1,
           "imagelink": "https://tse4.mm.bing.net/th?id=OIP.3KWd2zPnGZZ1Q_41alzXIQHaE6&pid=Api&P=0",
+          "imagelink1": "https://tse4.mm.bing.net/th?id=OIP.3KWd2zPnGZZ1Q_41alzXIQHaE6&pid=Api&P=0",
           "cityName": "toyk",
+          "About":"jhfbjbhfdbdjbdj",
           "description": "Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location"
         },
         {
           "id": 2,
           "imagelink": "https://i0.wp.com/nextbiteoflife.com/wp-content/uploads/2016/04/street.jpg?fit=1923%2C1280&ssl=1",
           "cityName": "tokyav2222",
+          "About":"jhfbjbhfdbdjbdj",
           "description": "Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location"
         },
         {
           "id": 2,
           "imagelink": "https://i0.wp.com/nextbiteoflife.com/wp-content/uploads/2016/04/street.jpg?fit=1923%2C1280&ssl=1",
           "cityName": "tokyav2222",
+          "About":"jhfbjbhfdbdjbdj",
           "description": "Comprising a territory spanning roughly 90,000 square kilometres (35,000 sq mi) including the sea, land area of all the islands comprises 298 square kilometres (115 sq mi), Maldives is one of the world's most geographically dispersed sovereign states and the smallest Asian country as well as one of the smallest Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous country in Asia. Malé is the capital and the most populated city, traditionally called the King's Island where the ancient royal dynasties ruled for its central location"
         }
       ],
@@ -125,6 +146,17 @@
       "star": 3,
       "Comments": "kdjbdkj",
       "id": 4
+    },
+    {
+      "name": "lakshman",
+      "star": 4,
+      "Comments": "lakshman",
+      "id": 5
+    },
+    {
+      "name": "",
+      "Comments": "",
+      "id": 6
     }
   ]
 }

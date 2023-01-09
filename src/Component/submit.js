@@ -69,7 +69,7 @@ export default function StarRating() {
   
    
     return (
-      <Form class="mb-50px" onSubmit={onSubmit}>
+      <Form  onSubmit={onSubmit}>
             <label htmlFor="namedInput">Name:</label>
               <input type="text" className="form-control input" value={viewName}placeholder="Enter name"/>
               <div>
@@ -102,15 +102,15 @@ export default function StarRating() {
   return (
     <>
      {/* <Container> */}
-        <div className="row mb-5 border:borderexample" 
-        // style={{backgroundColor:"gray",marginTop: 10}} 
+        <div className="row mb-5 " 
+        style={{backgroundColor:"gray",marginTop: 1}} 
         >
-    <div className="col-sm-12 float:left">
+    <div className="col-sm-12 float:right">
     </div>
     <div className="col-sm-6">
-      <h2>Feed back </h2>
+      {/* <h2>Feed back </h2> */}
       <div name="myform" method="post"
-      style={{textAlign: "left", padding: 30,borderRadius: 10,marginBottom: 10, backgroundColor: "white"}}
+      style={{textAlign: "left", padding: 5,borderRadius: 10,marginBottom: 10, backgroundColor: "grey"}}
       >
         <div className="mb-3 mt-3">
         <label htmlFor="namedInput">Name:</label>

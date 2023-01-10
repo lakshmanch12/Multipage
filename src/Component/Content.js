@@ -37,6 +37,7 @@ import Button from 'react-bootstrap/Button';
                 </div>
                </div>
         </section>   
+        
  
         <section className="bg-light" >
           <div className="container">
@@ -56,6 +57,7 @@ import Button from 'react-bootstrap/Button';
              </div>   
           </div>   
         </section>   
+        
 {/*  
         <section class="" id="destinations">   
          <div class="container">

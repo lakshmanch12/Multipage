@@ -122,14 +122,17 @@ import React from 'react';
 import{Link} from 'react-router-dom';
 // import axios from 'axios';
 import usersData from "../data.json";
-import { Card,Button } from "react-bootstrap";
+import { Card,Button,Container } from "react-bootstrap";
 import '../App.css';
 import { useParams } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import { IoAirplaneSharp,IoArrowBack } from 'react-icons/io5';
 const Users = () => {
   const navigate = useNavigate(); 
   const goToHome=()=>{
-    alert("hi"); 
+    // alert("hi"); 
     navigate("/");
   };
   const userId= useParams();
@@ -140,11 +143,18 @@ const Users = () => {
   return (
     <div>
       <div className="container">
-    <div className="row text-center">
-      <div className="col-md-11">
+    <div className="row ">
+    <div className="col-md-1">
+          {/* <div className="testimonial mt-2 "> */}
+          {/* <img src={eachUser.imagelink}class="rounded-circle z-depth-1 img-fluid"/> */}
+         {/* <h1>{userId.country}<span></span> cities </h1> */}
+         {/* </div> */}
+        
+         </div>
+      <div className="col-md-10">
           <div className="testimonial mt-2 ">
-         
-         <h1>cities</h1>
+          <h1><span class="text-uppercase float-right" >{userId.country}</span> <span  style={{color: "red"}}>CITIES</span> </h1>
+         {/* <h1>{userId.country}<span></span> cities </h1> */}
          </div>
         
          </div>
@@ -153,7 +163,7 @@ const Users = () => {
          
           <Button
            onClick={()=>goToHome()}  
-           className=" float-right"variant="outline-dark">Back</Button>
+           className=" float-right"variant="outline-dark"><IoArrowBack/></Button>
         
          {/* <Link to={`/users/${id}`} key={id}> */}
          </div>
@@ -180,23 +190,72 @@ const Users = () => {
     const {id ,name,email,imagelink,about} =eachUser; 
     const selectedCity = selectedCountry[0].cities.find((eachUser) => eachUser.id===id);
     return (
-      <div class="col-sm-4 mb-2">
-   <div class="card mt-2">
-      <h3>{about}</h3>
-      <Card.Img class="card-img-top" src={eachUser.imagelink} />
-      <Card.Title  class="card-title text-dark-emphasis" >{eachUser.cityName}</Card.Title>
-      <p class="card-text text-secondary" >{selectedCity.About}</p>
-                       
-      {/* <p>{selectedCity.About}</p> */}
-      <div class="card-footer">
-      <Link to={`/users/${country}/${id}`} key={id}>
+      <Container fluid="md-4 " >
+      <Row className=" mt-5  mb-5 bg-secondary">
+      <Col md={1}>
+        
+       <div class=" mt-2">
+       {/* <h3>{about}</h3> */}
+      {/* <img class="card-img-top" src={eachUser.imagelink} /> */}
+     {/* <Card.Title  class=" mt-2 card-title text-dark-emphasis" >{eachUser.cityName}</Card.Title> */}
+    {/* </div> */}
+     </div>
+        </Col>
+        <Col md={4}>
+        <div className=" ">
+            <img src={eachUser.imagelink}class="rounded-circle z-depth-1 img-fluid"/>
+             <h1 classname=''>{selectedCity.cityName}</h1>
+          </div>
+{/*      
+       <div class=" mt-2">
+       <h3>{about}</h3>
+      <img class="card-img-top" src={eachUser.imagelink} />
+    
+  
+     </div> */}
+        </Col>
+        <Col sm={5} >
+        {/* <Card.Title  class=" mt-2 card-title text-dark-emphasis" >{eachUser.cityName}</Card.Title>  */}
+        <h1 class="text-bold mt-2  " >{selectedCity.caption}</h1>
+        <p class="text-bold mt-3 " >{selectedCity.About}</p>
+
+        <Link to={`/users/${country}/${id}`} key={id}>
       <Button type="button" 
-      //  onClick={()=>goToHome()}
-       className='mb-2 btn btn-primary'>about</Button>
-  </Link>
-  </div>
-  </div>
-    </div>
+       onClick={()=>goToHome()}
+      className='mb-2 btn btn-primary'> More About</Button>
+   </Link>
+        </Col>
+      </Row>
+      
+      {/* <h6>Read More <i class="fas fa-arrow-right"></i></h6> */}
+    </Container>
+    
+
+//       <Container fluid="md">
+//       <div class="row">
+//       <div class="col-md-3 mb-2">
+//       <div class="card mt-2">
+//       <h3>{about}</h3>
+//       <i mg class="card-img-top" src={eachUser.imagelink} />
+//       <Card.Title  class=" mt-2 card-title text-dark-emphasis" >{eachUser.cityName}</Card.Title>
+//       </div>
+//       </div>
+//       <div class="col-md-9  mt-5 mb-2">
+      
+//       <p class="card-text text-secondary" >{selectedCity.About}</p>
+                       
+    
+//       <Link to={`/users/${country}/${id}`} key={id}>
+//       <Button type="button" 
+//       //  onClick={()=>goToHome()}
+//        className='mb-2 btn btn-primary'>about</Button>
+//   </Link>
+//  </div>
+//   </div>
+    
+//   </Container>
+
+
     )})}
 
 </div>
